@@ -1,5 +1,5 @@
 {
-  "name" : "pulseframework/pulse-exception",
+  "name" : "pulse/pulse-exception",
   "description" : "Pulse exception",
   "authors": [
     {
